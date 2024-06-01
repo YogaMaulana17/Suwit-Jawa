@@ -1,2 +1,2 @@
 # Suwit-Jawa
-Game sederhana WPU
+Game sederhana dari Channel Youtube WPU
